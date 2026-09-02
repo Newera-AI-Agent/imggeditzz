@@ -1,7 +1,7 @@
 # TASK CONTRACT (immutable product obligation)
 
 **Original request:** public and imggeditzz
-**Normalized interpretation:** public and imggeditzz
+**Normalized interpretation:** Build a public Next.js client-side image editor project named imggeditzz, with polished responsive UX and real browser editing interactions.
 **Execution profile:** fast
 **Created:** 2026-09-02T10:39:18.024Z
 

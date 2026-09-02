@@ -1,7 +1,11 @@
 {
   "originalRequest": "public and imggeditzz",
-  "normalizedInterpretation": "public and imggeditzz",
-  "assumptions": [],
+  "normalizedInterpretation": "Build a public Next.js client-side image editor project named imggeditzz, with polished responsive UX and real browser editing interactions.",
+  "assumptions": [
+    "Use Next.js with TypeScript and a client-side canvas/editor workflow.",
+    "Repository visibility is public, based on the user's exact consent answer.",
+    "Implement a complete useful MVP rather than a disconnected scaffold; deployment remains pending until the build is green."
+  ],
   "profile": "fast",
   "requirements": [
     {
@@ -9,7 +13,6 @@
       "description": "public and imggeditzz",
       "mandatory": true,
       "status": "pending",
-      "evidenceType": "custom",
       "acceptanceCriteria": "Concrete implementation evidence is recorded and the outcome matches the user request."
     }
   ],
@@ -25,5 +28,5 @@
   "permissions": [],
   "deferredItems": [],
   "createdAt": 1788345558024,
-  "updatedAt": 1788345558024
+  "updatedAt": 1788345630618
 }
